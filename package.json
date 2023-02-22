@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "net-api-browser",
+  "name": "dotnet-api-browser",
   "title": ".NET API Browser",
   "description": "Quickly search the .NET API catalog.",
   "icon": "dotnet-logo.png",
