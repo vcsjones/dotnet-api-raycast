@@ -6,7 +6,7 @@
   "icon": "dotnet-logo.png",
   "author": "vcsjones",
   "categories": [
-    "Developer Tools"
+    "Developer Tools", "Documentation"
   ],
   "license": "MIT",
   "commands": [
